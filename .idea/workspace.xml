@@ -5,9 +5,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding project files">
-      <change afterPath="$PROJECT_DIR$/module_10/hw_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_10/hw_4.js" afterDir="false" />
+    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding one home work for the section &quot;Arrays&quot; in module &quot;Introduction to JavaScript&quot;">
+      <change afterPath="$PROJECT_DIR$/module_10/hw_5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_10/first_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/first_lesson.html" afterDir="false" />
     </list>
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606393127919</updated>
-      <workItem from="1606393129776" duration="3451000" />
+      <workItem from="1606393129776" duration="5588000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606393349043</created>
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606393399649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding two home works for the section &quot;String and Numbders&quot; in module &quot;Introduction to JavaScript&quot;">
+      <created>1606569655063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606569655063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,12 +91,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adding project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding project files" />
+    <MESSAGE value="Adding two home works for the section &quot;String and Numbders&quot; in module &quot;Introduction to JavaScript&quot;" />
+    <MESSAGE value="Adding one home work for the section &quot;Arrays&quot; in module &quot;Introduction to JavaScript&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding one home work for the section &quot;Arrays&quot; in module &quot;Introduction to JavaScript&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="267" key="Vcs.Push.Dialog.v2" timestamp="1606484107277">
+    <state x="513" y="267" key="Vcs.Push.Dialog.v2" timestamp="1606569663775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="513" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1606484107277" />
+    <state x="513" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1606569663775" />
   </component>
 </project>
