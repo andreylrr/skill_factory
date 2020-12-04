@@ -3,9 +3,10 @@
 */
 
 // Задаем массив и начальные значения счетчиков
-let v_array = [2,3,6,78,4,8,"56",9,23,34,45,NaN,65,66,75,76];
+let v_array = [2,3,6,78,0,4,8,"56",9,23,34,45,NaN,65,null,66,75,76];
 let v_qual_even = 0;
 let v_qual_not_even = 0;
+let v_qual_zero = 0;
 
 // Первый вариант выполнения задания с использованием оператора for
 for( let i = 0; i < v_array.length; i++)
@@ -14,6 +15,12 @@ for( let i = 0; i < v_array.length; i++)
     {
         if ( ! isNaN(v_array[i]))
         {
+            if ( v_array[i] == 0 )
+            {
+               v_qual_zero++;
+               continue;
+            }
+
             if ( v_array[i] % 2 == 0 )
             {
                 v_qual_even++;
@@ -29,10 +36,12 @@ for( let i = 0; i < v_array.length; i++)
 // Вывод результатов на консоль
 console.log("Количество четных чисел в массиве - " + v_qual_even)
 console.log("Количество не четных чисел в массиве - " + v_qual_not_even)
+console.log("Количество нулевых значений - " + v_qual_zero)
 
 // Второй вариант выполнения задания с использованием оператора ForEach
 v_qual_not_even = 0;
 v_qual_even = 0;
+v_qual_zero = 0;
 
 function calculateEven(currentValue)
 {
@@ -40,6 +49,11 @@ function calculateEven(currentValue)
     {
         if ( ! isNaN(currentValue))
         {
+            if ( currentValue == 0 )
+            {
+                v_qual_zero++;
+                return;
+            }
             if ( currentValue % 2 == 0 )
             {
                 v_qual_even++;
@@ -56,4 +70,4 @@ v_array.forEach(calculateEven)
 // Вывод результатов на консоль
 console.log("Количество четных чисел в массиве - " + v_qual_even)
 console.log("Количество не четных чисел в массиве - " + v_qual_not_even)
-
+console.log("Количество нулевых значений - " + v_qual_zero)

@@ -6,9 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding the two home works for module 9">
-      <change afterPath="$PROJECT_DIR$/module_10/hw_8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_10/first_lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/first_lesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/hw_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/hw_7.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606393127919</updated>
       <workItem from="1606393129776" duration="12568000" />
+      <workItem from="1607095294339" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606393349043</created>
@@ -101,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
