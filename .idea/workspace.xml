@@ -5,7 +5,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding the last home work for module 10" />
+    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding the last home work for module 10">
+      <change afterPath="$PROJECT_DIR$/module_11/hw_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_11/hw_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_11/hw_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_11/hw_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_11/hw_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_11/lessons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -31,10 +40,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lessons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/skill_factory/module_11/lessons.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lessons.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606393127919</updated>
-      <workItem from="1606393129776" duration="13216000" />
+      <workItem from="1606393129776" duration="23221000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606393349043</created>
@@ -88,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607082531949</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding the last home work for module 10">
+      <created>1607122067135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607122067135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,13 +143,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding the last home work for module 10" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="496" y="305" key="MultipleFileMergeDialog" timestamp="1607251159093">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="496" y="305" key="MultipleFileMergeDialog/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607251159093" />
+    <state x="355" y="179" key="SettingsEditor" timestamp="1607124151602">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="355" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607124151602" />
+    <state x="698" y="217" key="VCS.ChangeListViewerDialog" timestamp="1607122060287">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="217" key="VCS.ChangeListViewerDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607122060287" />
     <state x="513" y="267" key="Vcs.Push.Dialog.v2" timestamp="1607082541921">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="513" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607082541921" />
-    <state x="735" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607122048909">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="735" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607251148455">
+      <screen x="0" y="0" width="1920" height="1044" />
     </state>
+    <state x="735" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607251148455" />
     <state x="735" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607122048909" />
   </component>
 </project>
