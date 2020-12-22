@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding the last home work for module 10">
-      <change afterPath="$PROJECT_DIR$/module_11/hw_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/hw_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/hw_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/hw_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/hw_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/lessons.html" afterDir="false" />
+    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding Home Works for module 11">
+      <change afterPath="$PROJECT_DIR$/module_12/hw_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/hw_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/hw_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/hw_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/hw_5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1kpMYMSGeRLMQK1PubIwTfITnrP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,17 +50,35 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.hw_5.js">
     <configuration name="lessons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/skill_factory/module_11/lessons.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="hw_1.js" working-dir="$PROJECT_DIR$/module_12">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="hw_2.js" working-dir="$PROJECT_DIR$/module_12">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/module_12/hw_3.js" working-dir="$PROJECT_DIR$/module_12">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/module_12/hw_4.js" working-dir="$PROJECT_DIR$/module_12">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/module_12/hw_5.js" working-dir="$PROJECT_DIR$/module_12">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.hw_5.js" />
+        <item itemvalue="Node.js.hw_4.js" />
+        <item itemvalue="Node.js.hw_3.js" />
+        <item itemvalue="Node.js.hw_2.js" />
         <item itemvalue="JavaScript Debug.lessons.html" />
       </list>
     </recent_temporary>
@@ -65,7 +91,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606393127919</updated>
-      <workItem from="1606393129776" duration="23221000" />
+      <workItem from="1606393129776" duration="24540000" />
+      <workItem from="1607327361582" duration="4295000" />
+      <workItem from="1608297980178" duration="10000" />
+      <workItem from="1608298004942" duration="7697000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606393349043</created>
@@ -116,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607122067135</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding Home Works for module 11">
+      <created>1607265459065</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607265459065</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -140,24 +177,43 @@
     <MESSAGE value="Adding one home work for the section &quot;Arrays&quot; in module &quot;Introduction to JavaScript&quot;" />
     <MESSAGE value="Adding the two home works for module 9" />
     <MESSAGE value="Adding the last home work for module 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the last home work for module 10" />
+    <MESSAGE value="Adding Home Works for module 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Home Works for module 11" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1525" height="261" key="GridCell.Tab.0.bottom" timestamp="1608654797198">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1525" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608654797198" />
+    <state width="1525" height="261" key="GridCell.Tab.0.center" timestamp="1608654797198">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1525" height="261" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608654797198" />
+    <state width="1525" height="261" key="GridCell.Tab.0.left" timestamp="1608654797198">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1525" height="261" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608654797198" />
+    <state width="1525" height="261" key="GridCell.Tab.0.right" timestamp="1608654797198">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1525" height="261" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608654797198" />
     <state x="496" y="305" key="MultipleFileMergeDialog" timestamp="1607251159093">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="496" y="305" key="MultipleFileMergeDialog/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607251159093" />
-    <state x="355" y="179" key="SettingsEditor" timestamp="1607124151602">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="355" y="173" key="SettingsEditor" timestamp="1607266776661">
+      <screen x="0" y="0" width="1920" height="1044" />
     </state>
+    <state x="355" y="173" key="SettingsEditor/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607266776661" />
     <state x="355" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607124151602" />
     <state x="698" y="217" key="VCS.ChangeListViewerDialog" timestamp="1607122060287">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="698" y="217" key="VCS.ChangeListViewerDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607122060287" />
-    <state x="513" y="267" key="Vcs.Push.Dialog.v2" timestamp="1607082541921">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="513" y="258" key="Vcs.Push.Dialog.v2" timestamp="1607265475902">
+      <screen x="0" y="0" width="1920" height="1044" />
     </state>
+    <state x="513" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607265475902" />
     <state x="513" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607082541921" />
     <state x="735" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607251148455">
       <screen x="0" y="0" width="1920" height="1044" />
