@@ -8,10 +8,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Adding completed home works number 8">
+    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Updating home work 3">
+      <change afterPath="$PROJECT_DIR$/module_15/hw_1/finland.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_1/france.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_1/russia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_1/switzerland.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_2/hw_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_2/hw_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_14/hw_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_14/hw_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_14/hw_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_14/hw_3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +33,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="ProjectId" id="1kpMYMSGeRLMQK1PubIwTfITnrP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,8 +46,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_15/hw_2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module_15/hw_2" />
+      <recent name="$PROJECT_DIR$/module_15/hw_1" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.hw_1.js (1)">
     <configuration name="h_w1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/skill_factory/module_14/h_w1.html" useBuiltInWebServerPort="true">
@@ -72,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.hw_1.js (1)" />
-        <item itemvalue="JavaScript Debug.h_w1.html" />
         <item itemvalue="Node.js.hw_5.js" />
         <item itemvalue="Node.js.hw_4.js" />
         <item itemvalue="Node.js.hw_3.js" />
+        <item itemvalue="Node.js.hw_1.js (1)" />
+        <item itemvalue="JavaScript Debug.h_w1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +98,9 @@
       <workItem from="1608297980178" duration="10000" />
       <workItem from="1608298004942" duration="31642000" />
       <workItem from="1609150298027" duration="312000" />
-      <workItem from="1609152986283" duration="33554000" />
+      <workItem from="1609152986283" duration="34195000" />
+      <workItem from="1610523397530" duration="8729000" />
+      <workItem from="1610885284732" duration="8058000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606393349043</created>
@@ -193,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609520431168</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updating home work 3">
+      <created>1609524171713</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609524171713</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,96 +239,8 @@
     <MESSAGE value="Adding completed home works number 5 and 6" />
     <MESSAGE value="Adding completed home works number 7" />
     <MESSAGE value="Adding completed home works number 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding completed home works number 8" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1525" height="322" key="GridCell.Tab.0.bottom" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.0.center" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.0.left" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.0.right" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.1.bottom" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.1.bottom/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.1.center" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.1.center/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.1.left" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.1.left/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.1.right" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.1.right/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.2.bottom" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.2.bottom/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.2.center" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.2.center/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.2.left" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.2.left/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.2.right" timestamp="1609150279872">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.2.right/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609150279872" />
-    <state width="1525" height="322" key="GridCell.Tab.3.bottom" timestamp="1608901961848">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.3.bottom/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608901961848" />
-    <state width="1525" height="322" key="GridCell.Tab.3.center" timestamp="1608901961848">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.3.center/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608901961848" />
-    <state width="1525" height="322" key="GridCell.Tab.3.left" timestamp="1608901961847">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.3.left/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608901961847" />
-    <state width="1525" height="322" key="GridCell.Tab.3.right" timestamp="1608901961848">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state width="1525" height="322" key="GridCell.Tab.3.right/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608901961848" />
-    <state x="496" y="305" key="MultipleFileMergeDialog" timestamp="1607251159093">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="496" y="305" key="MultipleFileMergeDialog/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607251159093" />
-    <state x="355" y="173" key="SettingsEditor" timestamp="1608985564269">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="355" y="173" key="SettingsEditor/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1608985564269" />
-    <state x="355" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607124151602" />
-    <state x="698" y="217" key="VCS.ChangeListViewerDialog" timestamp="1607122060287">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="698" y="217" key="VCS.ChangeListViewerDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607122060287" />
-    <state x="513" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609520442613">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="513" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1609520442613" />
-    <state x="513" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607082541921" />
-    <state x="735" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607251148455">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="735" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1607251148455" />
-    <state x="735" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1607122048909" />
+    <MESSAGE value="Updating home work 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating home work 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,7 +248,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/module_14/hw_7.js</url>
           <line>36</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
