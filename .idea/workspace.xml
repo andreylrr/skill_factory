@@ -8,13 +8,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Updating home work 3">
-      <change afterPath="$PROJECT_DIR$/module_15/hw_1/finland.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_15/hw_1/france.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_15/hw_1/russia.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_15/hw_1/switzerland.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_15/hw_2/hw_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_15/hw_2/hw_2.js" afterDir="false" />
+    <list default="true" id="6d8eaa56-5ed6-4393-8843-5a566fe2b4bf" name="Default Changelist" comment="Two first home works for the module 15">
+      <change afterPath="$PROJECT_DIR$/module_15/hw_3/hw_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_3/hw_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_4/hw_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_15/hw_4/hw_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +98,7 @@
       <workItem from="1609150298027" duration="312000" />
       <workItem from="1609152986283" duration="34195000" />
       <workItem from="1610523397530" duration="8729000" />
-      <workItem from="1610885284732" duration="8058000" />
+      <workItem from="1610885284732" duration="16982000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606393349043</created>
@@ -207,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609524171713</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Two first home works for the module 15">
+      <created>1610955413175</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610955413175</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +245,8 @@
     <MESSAGE value="Adding completed home works number 7" />
     <MESSAGE value="Adding completed home works number 8" />
     <MESSAGE value="Updating home work 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating home work 3" />
+    <MESSAGE value="Two first home works for the module 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two first home works for the module 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
